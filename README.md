@@ -1,4 +1,4 @@
-# Psychographic-segmentation
+# psychographic-segmentation
 The main objective of a psychographic segmentation marketing analytics project is to divide a target audience or customer base into distinct groups based on their psychological and behavioral characteristics. Unlike traditional demographic segmentation, which focuses on attributes like age, gender, and income, psychographic segmentation delves into customers' values, beliefs, lifestyles, interests, and attitudes.
 
 The project aims to achieve the following:
